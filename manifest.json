@@ -15,5 +15,5 @@
    "name": "Close Tabs to the Left",
    "permissions": [ "tabs" ],
    "short_name": "CloseToLeft",
-   "version": "1.0"
+   "version": "1.0.1"
 }
