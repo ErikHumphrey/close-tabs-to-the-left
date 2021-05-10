@@ -2,8 +2,6 @@
    "author": "Erik Humphrey",
    "action": {
       "default_icon": {
-         "16": "images/icon_16.png",
-         "24": "images/icon_24.png",
          "32": "images/icon_32.png",
          "48": "images/icon_48.png",
          "128": "images/icon_128.png"
@@ -15,8 +13,6 @@
    },
    "description": "Adds a button to close all tabs to the left of the current tab.",
    "icons": {
-      "16": "images/icon_16.png",
-      "24": "images/icon_24.png",
       "32": "images/icon_32.png",
       "48": "images/icon_48.png",
       "128": "images/icon_128.png"
@@ -24,5 +20,5 @@
    "manifest_version": 3,
    "name": "Close Tabs to the Left",
    "short_name": "Close Left",
-   "version": "1.2"
+   "version": "1.2.1"
 }
